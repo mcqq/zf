@@ -1,0 +1,14 @@
+<!--pages/shouk/shouk.wxml-->
+<view>
+    <view class='bigbox'>
+      <view class='tx'>
+        <image class='avatar' src='{{user_info.avatar_url}}'></image>
+      </view>
+      <view class='kuang'>
+        <input class='int' type="number" placeholder='请输入金额'></input>
+      </view>
+      <view class='btn'>
+        <button>确 认</button>
+      </view>
+    </view>
+</view>

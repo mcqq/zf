@@ -1,0 +1,45 @@
+/* pages/shouk/shouk.wxss */
+.bigbox{
+  width: 90%;
+  height: 350px;
+  margin:40px auto;
+  background: #fff;
+}
+.avatar {
+    width: 114rpx;
+    height: 114rpx;
+    border-radius: 114rpx;
+    border: 5rpx solid #000;
+    margin: 0 auto;
+    margin-top: 40rpx;
+}
+.tx{
+  width: 114rpx;
+  height: 114rpx;
+  margin:0 auto;
+}
+.kuang,.btn{
+  width: 80%;
+  height: 100rpx;
+  margin: 0 auto;
+  margin-top:50px;
+}
+.kuang input{
+  width: 80%;
+  height: 100rpx;
+  margin: 0 auto;
+  border: 2px solid #ccc;
+  border-radius: 5%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.btn button{
+  width: 80%;
+  height: 100rpx;
+  margin:0 auto;
+  border: 0;
+  background: #0dcc1a;
+  color: #fff;
+  font-size: 20px;
+  line-height: 100rpx;
+}
